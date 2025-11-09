@@ -1,7 +1,12 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianBaba&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MarianBaba&theme=tokyonight&hide_border=true)
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianBaba&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+    <img src="https://streak-stats.demolab.com?user=MarianBaba&theme=tokyonight&hide_border=true" height="170" />
+  </div>
 
-![Marian's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarianBaba&theme=tokyo-night&hide_border=true)
+  <br/>
 
-![Dev Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarianBaba&theme=tokyonight)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarianBaba&theme=tokyo-night&hide_border=true" />
+
+</div>
