@@ -1,3 +1,4 @@
+<h3>Hello 👋 I'm Marian, a Software Development Engineer in Test</h3>
 <div align="center">
 
   <div style="display: flex; justify-content: center; gap: 20px;">
@@ -7,6 +8,6 @@
 
   <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarianBaba&theme=tokyo-night&hide_border=true" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarianBaba&theme=tokyo-night&hide_border=true" /> -->
 
 </div>
