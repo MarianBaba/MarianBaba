@@ -1,4 +1,4 @@
-<h3>Hello 👋 I'm Marian, a Software Development Engineer in Test</h3>
+<div align="center"> <h3>Hello 👋 I'm Marian, a Software Development Engineer in Test</h3> </div>
 <div align="center">
 
   <div style="display: flex; justify-content: center; gap: 20px;">
